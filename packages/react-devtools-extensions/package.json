@@ -38,7 +38,7 @@
     "child-process-promise": "^2.2.1",
     "chrome-launch": "^1.1.4",
     "crx": "^5.0.0",
-    "css-loader": "^1.0.1",
+    "css-loader": "^2.0.0",
     "devtools-ignore-webpack-plugin": "^0.1.1",
     "file-loader": "^6.1.0",
     "filesize": "^6.0.1",
@@ -48,7 +48,7 @@
     "imagemin": "^8.0.0",
     "imagemin-gifsicle": "^7.0.0",
     "imagemin-jpegtran": "^6.0.0",
-    "imagemin-optipng": "^7.0.0",
+    "imagemin-optipng": "^8.0.0",
     "imagemin-svgo": "^7.0.0",
     "jest-fetch-mock": "^3.0.3",
     "node-libs-browser": "0.5.3",
@@ -68,6 +68,6 @@
     "workerize-loader": "^2.0.2"
   },
   "dependencies": {
-    "web-ext": "^4"
+    "web-ext": "^7.5.0"
   }
 }
