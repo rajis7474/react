@@ -66,8 +66,8 @@
     "filesize": "^6.0.1",
     "flow-bin": "^0.209.0",
     "flow-remove-types": "^2.209.0",
-    "glob": "^7.1.6",
-    "glob-stream": "^6.1.0",
+    "glob": "^9.0.0",
+    "glob-stream": "^8.0.0",
     "google-closure-compiler": "^20230206.0.0",
     "gzip-size": "^5.1.1",
     "hermes-eslint": "^0.9.0",
@@ -86,7 +86,7 @@
     "prop-types": "^15.6.2",
     "random-seed": "^0.3.0",
     "react-lifecycles-compat": "^3.0.4",
-    "rimraf": "^3.0.0",
+    "rimraf": "^4.0.0",
     "rollup": "^3.17.1",
     "rollup-plugin-prettier": "^3.0.0",
     "rollup-plugin-strip-banner": "^3.0.0",
@@ -97,7 +97,7 @@
     "tmp": "^0.1.0",
     "typescript": "^3.7.5",
     "web-streams-polyfill": "^3.1.1",
-    "webpack": "^4.41.2",
+    "webpack": "^5.1.1",
     "yargs": "^15.3.1"
   },
   "devEngines": {
