@@ -28,7 +28,7 @@
     "@babel/plugin-transform-react-jsx-source": "^7.10.5",
     "@babel/preset-react": "^7.10.4",
     "acorn-jsx": "^5.2.0",
-    "archiver": "^3.0.0",
+    "archiver": "^7.0.0",
     "babel-core": "^7.0.0-bridge",
     "babel-eslint": "^9.0.0",
     "babel-loader": "^8.0.4",
@@ -43,7 +43,7 @@
     "file-loader": "^6.1.0",
     "filesize": "^6.0.1",
     "find": "^0.3.0",
-    "firefox-profile": "^1.0.2",
+    "firefox-profile": "^4.2.0",
     "fs-extra": "^4.0.2",
     "imagemin": "^8.0.0",
     "imagemin-gifsicle": "^7.0.0",
@@ -64,10 +64,10 @@
     "style-loader": "^0.23.1",
     "webpack": "^5.82.1",
     "webpack-cli": "^5.1.1",
-    "webpack-dev-server": "^4.15.0",
+    "webpack-dev-server": "^5.0.0",
     "workerize-loader": "^2.0.2"
   },
   "dependencies": {
-    "web-ext": "^4"
+    "web-ext": "^6.2.0"
   }
 }
