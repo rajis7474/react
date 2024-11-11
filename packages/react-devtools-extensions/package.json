@@ -47,7 +47,7 @@
     "fs-extra": "^4.0.2",
     "imagemin": "^8.0.0",
     "imagemin-gifsicle": "^7.0.0",
-    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-jpegtran": "^8.0.0",
     "imagemin-optipng": "^7.0.0",
     "imagemin-svgo": "^7.0.0",
     "jest-fetch-mock": "^3.0.3",
@@ -64,7 +64,7 @@
     "style-loader": "^0.23.1",
     "webpack": "^5.82.1",
     "webpack-cli": "^5.1.1",
-    "webpack-dev-server": "^4.15.0",
+    "webpack-dev-server": "^5.1.0",
     "workerize-loader": "^2.0.2"
   },
   "dependencies": {
